@@ -7,6 +7,7 @@
 Stop googling cryptic errors. **The Error Messages Guide** is a curated, searchable collection of the most common development errors across 10+ languages and frameworks. Each entry includes a plain-English explanation and a step-by-step solution.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
