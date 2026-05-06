@@ -6,7 +6,19 @@
 
 Stop googling cryptic errors. **The Error Messages Guide** is a curated, searchable collection of the most common development errors across 10+ languages and frameworks. Each entry includes a plain-English explanation and a step-by-step solution.
 
+## Examples
 
+### Invalid Email
+Input: user@invalid  
+Output: Please provide a valid email address.  
+Explanation: This happens when the email format is incomplete or incorrect.
+
+---
+
+### Weak Password
+Input: 12345  
+Output: Password should be at least 8 characters and include letters or numbers.  
+Explanation: Simple passwords are not allowed for security reasons.
 
 
 
